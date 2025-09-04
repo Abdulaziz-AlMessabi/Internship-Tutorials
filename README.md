@@ -9,9 +9,9 @@ The purpose of this repository is to serve as my professional portfolio and to h
 ## Tutorials
 
 - [Network Design](network_design/network_design.md)  
-- [Firewall Setup](firewall_setup/firewall_setup.md)  
+- [Firewall Setup]  
 - [SIEM Setup (Wazuh)](siem_setup/siem_setup.md)  
-- [EDR Deployment](edr_deployment/edr_deployment.md)  
+- [EDR Deployment]  
 - [Troubleshooting & Lessons Learned](troubleshooting/common_issues.md)  
 
 ---
