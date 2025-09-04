@@ -25,4 +25,7 @@ The purpose of this repository is to serve as my professional portfolio and to h
 
 Here’s the high-level SOC topology I designed during my internship:
 
-![SOC Topology](images/network_topology.png)
+![SOC Topology](High-Level_SOC_Network_Design.png)
+
+<img width="670" height="788" alt="High-Level SOC Network Design" src="https://github.com/user-attachments/assets/cc54112c-f6d4-4d40-bb8d-80df410a2e57" />
+
