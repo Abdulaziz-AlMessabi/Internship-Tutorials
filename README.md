@@ -20,3 +20,9 @@ The purpose of this repository is to serve as my professional portfolio and to h
 - Built a working EDU-SOC environment for Zayed university, with future inter-campus connections planned (Dubai & Abu Dhabi).  
 - Integrated SIEM, Wazuh EDR, Fortinet Layer 7 Firewall, Cisco/Fortinet networking equipment, and more is planned in the future including ExtraHop NDR, Kaspersky EDR, and QRadar SIEM etc,.  
 - Designed Secure network, VLAN segmentation, firewall policies, log forwarding, and red team/blue team simulations.  
+
+## Project Snapshot
+
+Here’s the high-level SOC topology I designed during my internship:
+
+![SOC Topology](images/network_topology.png)
