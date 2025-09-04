@@ -1,3 +1,7 @@
+
+///Still in Progress, Missing Images and Diagrams//
+
+
 SOC Internship Tutorials
 
 This repository documents my internship work on building and operating an Educational Security Operations Center (EDU-SOC).  
