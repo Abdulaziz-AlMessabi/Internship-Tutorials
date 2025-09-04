@@ -26,6 +26,8 @@ Wazuh was deployed as the central SIEM with plans of replacing it with IBM QRada
 
 
 
+
+
 # EDR Deployment (Wazuh/Kapersky EDR)
 
 ## Overview
